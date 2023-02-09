@@ -1,9 +1,9 @@
-### Hi there 👋 I'm Joyce
+### Hi there 👋 I'm Joyce.
 
 I'm a full-sack software engineer from Los Angeles, CA. I love to solve puzzles and problem solving in general. I was able to translate those skills into development and love doing it. Cheers to coding and learning!
 
 ### ⭐️ Skills:
-![javascript](https://skillicons.dev/icons?i=js,html,css,py,flask,nodejs,react,redux,postman,postgres)
+[![javascript](https://skillicons.dev/icons?i=js,html,css,py,flask,nodejs,react,redux,postman,postgres)](https://skillicons.dev)
 
 ### ⚡️ Fun Facts:
 - Coder by day drummer by night
@@ -11,7 +11,7 @@ I'm a full-sack software engineer from Los Angeles, CA. I love to solve puzzles 
 - I watched Sound of Music everyday as a child
 
 ### ✉️ How to reach me:
-![LinkedIn](https://www.linkedin.com/in/joyce-kang-18b70624b/)
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/joyce-kang-18b70624b/)
 <!--
 **joyceyukang/joyceyukang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
