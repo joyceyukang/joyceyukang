@@ -5,13 +5,13 @@ I'm a full-sack software engineer from Los Angeles, CA. I love to solve puzzles 
 ### ⭐️ Skills:
 [![javascript](https://skillicons.dev/icons?i=js,html,css,py,flask,nodejs,react,redux,postman,postgres)](https://skillicons.dev)
 
+### ✉️ How to reach me:
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/joyce-kang-18b70624b/)
+
 ### ⚡️ Fun Facts:
 - Coder by day drummer by night
 - Photography as a hobby
 - I watched Sound of Music everyday as a child
-
-### ✉️ How to reach me:
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/joyce-kang-18b70624b/)
 <!--
 **joyceyukang/joyceyukang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
