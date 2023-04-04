@@ -8,6 +8,10 @@ I'm a full-sack software engineer from Los Angeles, CA. I love to solve puzzles 
 ### ✉️ How to reach me:
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/joyce-kang-18b70624b/)
 
+### ⚡️ Currently Working On:
+- AWS Cloud Services
+- Django Framework
+
 ### ⚡️ Fun Facts:
 - Coder by day drummer by night
 - Photography as a hobby
