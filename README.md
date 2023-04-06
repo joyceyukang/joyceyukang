@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Joyce.
 
-I'm a full-sack software engineer from Los Angeles, CA. I love to solve puzzles and problem solving in general. I was able to translate those skills into development and love doing it. Cheers to coding and learning!
+I'm a full-stack software engineer from Los Angeles, CA. I love to solve puzzles and problem solving in general. I was able to translate those skills into development and love doing it. Cheers to coding and learning!
 
 ### ⭐️ Skills:
 [![javascript](https://skillicons.dev/icons?i=js,html,css,express,py,flask,nodejs,react,redux,postman,postgres)](https://skillicons.dev)
