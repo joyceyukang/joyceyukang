@@ -9,8 +9,8 @@ I'm a full-stack software engineer from Los Angeles, CA. I love to solve puzzles
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/joyce-kang-18b70624b/)
 
 ### ⚡️ Currently Working On:
-- AWS Cloud Services
-- Django Framework
+- Cybersecurity course
+- Java
 
 ### ⚡️ Fun Facts:
 - Coder by day drummer by night
