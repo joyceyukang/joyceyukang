@@ -9,7 +9,7 @@ I'm a full-stack software engineer from Los Angeles, CA. I love to solve puzzles
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/joyce-kang-18b70624b/)
 
 ### ⚡️ Currently Working On:
-- Cybersecurity course
+- Data Analysis
 - Java
 
 ### ⚡️ Fun Facts:
