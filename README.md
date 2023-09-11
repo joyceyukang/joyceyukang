@@ -10,6 +10,10 @@ I'm a full-stack software engineer from Los Angeles, CA. I love to solve puzzles
 
 ### ⚡️ Currently Working On:
 - Data Analysis
+  - Excel
+  - NumPy
+  - SQL
+  - Tableau  
 - Java
 
 ### ⚡️ Fun Facts:
