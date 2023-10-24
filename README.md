@@ -8,13 +8,10 @@ I'm a full-stack software engineer from Los Angeles, CA. I love to solve puzzles
 ### ✉️ How to reach me:
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/joyce-kang-18b70624b/)
 
-### ⚡️ Currently Working On:
-- Data Analysis
-  - Excel
-  - NumPy
-  - SQL
-  - Tableau  
+### ⚡️ Currently Working On: 
 - Java
+  - JavaFX
+- Open Source
 
 ### ⚡️ Fun Facts:
 - Coder by day drummer by night
