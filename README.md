@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Joyce.
-[(https://user-images.githubusercontent.com/74038190/213760686-dcb02031-af46-4b9d-a6b1-9c367a379d9f.gif)]
+[!(https://user-images.githubusercontent.com/74038190/213760686-dcb02031-af46-4b9d-a6b1-9c367a379d9f.gif)]
 
 I'm a full-stack software engineer from Los Angeles, CA. I love to solve puzzles and problem solving in general. I was able to translate those skills into development and love doing it. Cheers to coding and learning!
 
@@ -7,8 +7,8 @@ I'm a full-stack software engineer from Los Angeles, CA. I love to solve puzzles
 [![javascript](https://skillicons.dev/icons?i=js,html,css,express,py,flask,nodejs,react,redux,postman,postgres)](https://skillicons.dev)
 
 ### ✉️ How to reach me:
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/joyce-kang-18b70624b/)
-Email: joyceyukang@gmail.com
+- [![LinkedIn](https://www.linkedin.com/in/joyce-kang-18b70624b/)]
+- Email: joyceyukang@gmail.com
 
 ### ⚡️ Currently Working On: 
 - Java
