@@ -11,7 +11,6 @@ I'm a full-stack software engineer from Los Angeles, CA. I love to solve puzzles
 ### ⚡️ Currently Working On: 
 - Java
 - Django
-- Open Source
 
 ### ⚡️ Fun Facts:
 - Coder by day drummer by night
