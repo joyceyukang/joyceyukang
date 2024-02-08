@@ -7,7 +7,7 @@ I'm a full-stack software engineer from Los Angeles, CA. I love to solve puzzles
 [![javascript](https://skillicons.dev/icons?i=js,html,css,express,py,flask,nodejs,react,redux,postman,postgres)](https://skillicons.dev)
 
 ### ✉️ How to reach me:
-- [![LinkedIn](https://www.linkedin.com/in/joyce-kang-18b70624b/)]
+- [[LinkedIn](https://www.linkedin.com/in/joyce-kang-18b70624b/)]
 - Email: joyceyukang@gmail.com
 
 ### ⚡️ Currently Working On: 
