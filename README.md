@@ -19,8 +19,6 @@ I'm a full-stack software engineer from Los Angeles, CA. I love to solve puzzles
 - Coder by day drummer by night
 - Photography as a hobby
 - I watched Sound of Music everyday as a child
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joyceyukang)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **joyceyukang/joyceyukang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
